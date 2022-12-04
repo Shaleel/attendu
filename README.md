@@ -28,7 +28,7 @@ npm install
 
 To obtain firebase credentials visit <a  href="https://console.firebase.google.com/">firebase console</a>
 
-##Screenshots
+## Screenshots
 
 <img  style="width:250px"  src="screenshots/ss1.jpg"  />
 
