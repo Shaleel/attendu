@@ -30,14 +30,14 @@ To obtain firebase credentials visit <a  href="https://console.firebase.google.c
 
 ##Screenshots
 
-<img  style="width:150px"  src="screenshots/ss1.jpg"  />
+<img  style="width:250px"  src="screenshots/ss1.jpg"  />
 
-<img  style="width:150px"  src="screenshots/ss2.jpg"  />
+<img  style="width:250px"  src="screenshots/ss2.jpg"  />
 
-<img  style="width:150px"  src="screenshots/ss3.jpg"  />
+<img  style="width:250px"  src="screenshots/ss3.jpg"  />
 
-<img  style="width:150px"  src="screenshots/gif3.gif"  />
+<img  style="width:250px"  src="screenshots/gif3.gif"  />
 
-<img  style="width:150px"  src="screenshots/gif1.gif"  />
+<img  style="width:250px"  src="screenshots/gif1.gif"  />
 
-<img  style="width:150px"  src="screenshots/gif2.gif"  />
+<img  style="width:250px"  src="screenshots/gif2.gif"  />
